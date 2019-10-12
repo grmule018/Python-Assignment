@@ -1,0 +1,6 @@
+print("TWINKLE,TWINKLE,LITTLE STAR")
+print("How I wonder what you are")
+print("       Up Above the world so High")
+print("       Like A Diamond in the sky")
+print(" TWINKLE,TWINKLE,LITTLE STAR")
+print(" How I wonder what you are")
